@@ -68,4 +68,3 @@ The dashboard enables HR professionals to monitor employee attrition trends, eva
 
 
 
-rofessionals to monitor employee attrition trends, evaluate workforce demographics, and identify areas requiring retention strategies.
