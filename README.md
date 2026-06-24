@@ -58,6 +58,4 @@ This Tableau dashboard provides insights into employee attrition patterns, workf
 
 The dashboard enables HR professionals to monitor employee attrition trends, evaluate workforce demographics, and identify areas requiring retention strategies.
 
-## Outcome
-
-The dashboard enables HR professionals to monitor employee attrition trends, evaluate workforce demographics, and identify areas requiring retention strategies.
+rofessionals to monitor employee attrition trends, evaluate workforce demographics, and identify areas requiring retention strategies.
